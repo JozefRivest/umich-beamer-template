@@ -1,6 +1,0 @@
-\frametitle{Want to use the Quarto template?}
-
-	\begin{lstlisting}[language=bash]
-quarto use template JozefRivest/umich-quarto-reveal
-  \end{lstlisting}
-
