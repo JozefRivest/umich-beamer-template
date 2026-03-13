@@ -4,6 +4,7 @@
 # Keep source and output files
 !.gitignore
 !beamerthemeumich.sty
+!verycleantheme.sty
 !presentation.tex
 !presentation.pdf
 !.latexmkrc
